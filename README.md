@@ -23,7 +23,7 @@ OS<br>
 Path<br>
 Process<br>
 Punycode<br>
-Query Strings<br>
+Query Strings +<br>
 Readline<br>
 REPL<br>
 Stream<br>
