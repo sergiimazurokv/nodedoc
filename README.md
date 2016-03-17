@@ -8,7 +8,7 @@ C/C++ Addons<br>
 Cluster<br>
 Console +<br>
 Crypto<br>
-Debugger<br>
+Debugger +<br>
 DNS<br>
 Domain<br>
 Errors<br>
