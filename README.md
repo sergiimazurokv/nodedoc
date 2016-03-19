@@ -12,7 +12,7 @@ Debugger +<br>
 DNS<br>
 Domain<br>
 Errors +<br>
-Events<br>
+Events +<br>
 File System<br>
 Globals<br>
 HTTP<br>
