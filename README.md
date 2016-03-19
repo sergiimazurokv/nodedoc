@@ -14,7 +14,7 @@ Domain<br>
 Errors +<br>
 Events +<br>
 File System<br>
-Globals<br>
+Globals +<br>
 HTTP<br>
 HTTPS<br>
 Modules<br>
